@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/rs">
+        <file>SceneBase.qss</file>
+        <file>button.qss</file>
+    </qresource>
+</RCC>

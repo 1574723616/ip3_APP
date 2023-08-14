@@ -1,0 +1,172 @@
+﻿SceneBase {
+    min-height:750px;
+    max-height:870px;
+    max-width:800px;
+    min-width:800px;
+}
+
+
+QPushButton#sceneAreaBtn {
+    min-height:40px;
+    max-height:40px;
+	font-size:16px;
+    max-width:40px;
+	min-width:40px;
+    color:#FFFFFF;
+    border-radius: 5px;
+	background: #FFFFFF;
+	border:1px solid #CBCFD6;
+}
+
+
+QPushButton#sceneAreaBtn:hover {
+    background: #e4eff9;
+}
+
+QPushButton#sceneAreaBtn:pressed {
+    background: #e4eff9;
+}
+
+QPushButton#appButton {
+    min-height:32px;
+    max-height:32px;
+	font-size:16px;
+    max-width:85px;
+	min-width:85px;
+    color:#ffffff;
+    border-radius: 5px;
+	background: #FFFFFF;
+	border:1px solid #CBCFD6;
+}
+
+
+QPushButton#appButton:hover {
+    background: #1568FE;
+}
+
+QPushButton#appButton:pressed {
+    background: #1053cb;
+}
+
+QPushButton#m_apply {
+    min-height:35px;
+    max-height:35px;
+	font-size:16px;
+    max-width:200px;
+	min-width:200px;
+    border-radius: 5px;
+	background: #1568FE;
+	border:1px solid #CBCFD6;
+    color:#ffffff;
+}
+
+
+QPushButton#m_apply:hover {
+    background: #1464dc;
+}
+
+QPushButton#m_apply:pressed {
+    background: #1464dc;
+}
+
+QPushButton#deleteBtnMes {
+    min-height:35px;
+    max-height:35px;
+	font-size:16px;
+    max-width:85px;
+	min-width:85px;
+    border-radius: 5px;
+	background: #1568FE;
+	border:1px solid #CBCFD6;
+    color:#ffffff;
+}
+
+
+QPushButton#deleteBtnMes:hover {
+    background: #1464dc;
+}
+
+QPushButton#deleteBtnMes:pressed {
+    background: #1464dc;
+}
+
+QLineEdit#appNameEdit,QLineEdit#ShortCutEdit {
+    min-width:180px;
+        max-width:180px;
+        min-height:30px;
+        max-height:30px;
+	border-radius:4px;
+	border:1px solid #CBCFD6;
+	font-size:14px;
+}
+
+QLineEdit#appNameEdit:hover,QLineEdit#ShortCutEdit:hover {
+    min-width:180px;
+        max-width:180px;
+        min-height:30px;
+        max-height:30px;
+	border-radius:4px;
+	border:1px solid #1568FE;
+	font-size:14px;
+}
+
+QLineEdit#appTextEdit,QLineEdit#ShortCutEdit {
+    min-width:180px;
+        max-width:180px;
+        min-height:30px;
+        max-height:30px;
+	border-radius:4px;
+	border:1px solid #CBCFD6;
+	font-size:14px;
+}
+
+QLineEdit#appTextEdit:hover,QLineEdit#ShortCutEdit:hover {
+    min-width:180px;
+        max-width:180px;
+        min-height:30px;
+        max-height:30px;
+	border-radius:4px;
+	border:1px solid #1568FE;
+	font-size:14px;
+}
+
+QLineEdit#areaLineEdit,QLineEdit#ShortCutEdit {
+    min-width:180px;
+        max-width:180px;
+        min-height:30px;
+        max-height:30px;
+	border-radius:4px;
+	border:1px solid #CBCFD6;
+	font-size:14px;
+}
+
+QLineEdit#areaLineEdit:hover,QLineEdit#ShortCutEdit:hover {
+    min-width:180px;
+        max-width:180px;
+        min-height:30px;
+        max-height:30px;
+	border-radius:4px;
+	border:1px solid #1568FE;
+	font-size:14px;
+}
+
+QWidget#keySeqEdit{
+    min-width:180px;
+        max-width:180px;
+        min-height:30px;
+        max-height:30px;
+	border-radius:4px;
+	border:1px solid #CBCFD6;
+	font-size:14px;
+}
+
+QWidget#keySeqEdit:hover {
+    min-width:180px;
+        max-width:180px;
+        min-height:30px;
+        max-height:30px;
+	border-radius:4px;
+	border:1px solid #1568FE;
+	font-size:14px;
+}
+

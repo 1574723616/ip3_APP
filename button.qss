@@ -1,0 +1,94 @@
+MainWindow {
+    
+}
+
+MainWindow QStackedWidget#stackedWidget {
+    border-top: 1px solid #eeeeee; 
+    background-color:white;
+}
+
+MainWindow QPushButton#m_scene1 {
+    min-height:121px;
+    max-height:121px;font-size:16px;
+    max-width:121px;min-width:121px;
+    color:#FFFFFF;
+    border-radius: 5px;
+    background: #1568FE;
+}
+
+
+MainWindow QPushButton#m_scene1:hover {
+    background: #125de4;
+}
+
+MainWindow QPushButton#m_scene1:pressed {
+    background: #1053cb;
+}
+
+
+MainWindow QPushButton#m_scene2 {
+    min-height:121px;
+    max-height:121px;font-size:16px;
+    max-width:121px;min-width:121px;
+    color:#FFFFFF;
+    border-radius: 5px;
+    background: #1568FE;
+}
+
+MainWindow QPushButton#m_scene2:hover {
+    background: #125de4;
+}
+
+MainWindow QPushButton#m_scene2:pressed {
+    background: #1053cb;
+}
+
+MainWindow QPushButton#m_scene3 {
+    min-height:121px;
+    max-height:121px;font-size:16px;
+    max-width:121px;min-width:121px;
+    color:#FFFFFF;
+    border-radius: 5px;
+    background: #1568FE;
+}
+
+MainWindow QPushButton#m_scene3:hover {
+    background: #125de4;
+}
+
+MainWindow QPushButton#m_scene3:pressed {
+    background: #1053cb;
+}
+
+
+MainWindow QPushButton#m_scene4 {
+    min-height:121px;
+    max-height:121px;font-size:16px;
+    max-width:121px;min-width:121px;
+    color:#FFFFFF;
+    border-radius: 5px;
+    background: #1568FE;
+}
+
+MainWindow QPushButton#m_scene4:hover {
+    background: #125de4;
+}
+
+MainWindow QPushButton#m_scene4:pressed {
+    background: #1053cb;
+}
+
+
+MainWindow QWidget#m_sceneArea1 {
+    background: #6d7beb;
+}
+MainWindow QWidget#m_sceneArea2 {
+    background: #eeebbb;
+}
+MainWindow QWidget#m_sceneArea3 {
+    background: #cccddd;
+}
+MainWindow QWidget#m_sceneArea4 {
+    background: #cccdda;
+}
+
